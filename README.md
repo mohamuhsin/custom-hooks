@@ -1,5 +1,5 @@
 # Custom Hooks:
-Building custom hooks in React allows you to encapsulate or wrap and reuse logic across multiple components
+Building custom hooks in React allows you to encapsulate or wrap and reuse logic across multiple components.
 
 In this app we created custom hook to handle fetching logic so that we can use it in different parts of the app that need that logic.
 
