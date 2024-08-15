@@ -1,8 +1,15 @@
 # Custom Hooks:
+Building custom hooks in React allows you to encapsulate or wrap and reuse logic across multiple components
 
 In this app we created custom hook to handle fetching logic so that we can use it in different parts of the app that need that logic.
 
 # Rules of Hooks:
+
+1.Only call hooks inside of a component function.
+
+2. Hooks must not be nested inside if statements, nested functions and loops
+   
+3. Hooks may be used in a component function or inside another hook.
 
 # Why Hooks:
 
