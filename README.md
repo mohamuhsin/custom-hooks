@@ -7,7 +7,7 @@ In this app we created <b>useFetch</b> custom hook to handle fetching logic so t
 
 # Rules of Hooks:
 
-1.Only call hooks inside of a component function.
+1. Only call hooks inside of a component function.
 
 2. Hooks must not be nested inside if statements, nested functions and loops
    
