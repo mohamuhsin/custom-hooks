@@ -1,4 +1,4 @@
-# Custom Hooks
+# Custom Hooks:
 Building custom hooks in React allows you to encapsulate or wrap and reuse logic across multiple components.
 
 For example, if you have several components that need to fetch data from an API, you could create a custom hook like useFetch that handles the fetching logic and then use it in those components. This approach streamlines your code and makes it more maintainable.
